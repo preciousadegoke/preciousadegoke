@@ -50,7 +50,7 @@ I value projects that are **useful, testable, documented, and reproducible**. I 
 | [**TonGPT**](https://github.com/preciousadegoke/TonGPT) | An AI-powered Telegram assistant concept for exploring TON ecosystem data and research signals. | Python, Telegram APIs, PostgreSQL, TON/Tact | In progress |
 | [**DevOps Linux Lab**](https://github.com/preciousadegoke/ICP-2DE52D2E-2026-REPO) | A hands-on lab for Linux administration and small automation scripts. | Linux, Bash, Git | Learning lab |
 
-> **Showcase tip:** Keep three to five projects here. Link directly to each repository, add a clear README, include setup instructions, and state honestly what works today versus what is planned.
+ 
 
 ## ✍️ Writing & Research
 
