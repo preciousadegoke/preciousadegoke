@@ -1,16 +1,100 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**preciousadegoke/preciousadegoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Hi%2C%20I%27m%20Legend&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Cloud%20%7C%20DevOps%20%7C%20Backend%20%7C%20TON%20Web3&descAlignY=58&descSize=18)
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Cloud+%26+DevOps+Learner;Python+%26+Backend+Developer+in+Progress;Exploring+TON+%26+Web3" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/preciousadegoke"><img src="https://img.shields.io/badge/GitHub-preciousadegoke-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <a href="https://x.com/AdegokePrecio16"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" alt="X profile" /></a>
+  <a href="https://cryptoquantumadegoke.substack.com/"><img src="https://img.shields.io/badge/Substack-Read%20my%20writing-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
+  <a href="https://medium.com/@adegokeprecious73"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium" alt="Medium profile" /></a>
+</p>
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm **Adegoke Precious**, a Computer Science student at **Bowen University** (expected graduation: 2027). I'm building practical skills across **cloud infrastructure, DevOps automation, backend development, and Web3**.
+
+- ☁️ Learning to build, deploy, and operate reliable software systems.
+- 🐍 Working with Python and backend tools; exploring automation and API-driven applications.
+- ⛓️ Exploring the **TON ecosystem** and smart-contract development with Tact.
+- ✍️ Writing and researching blockchain ecosystems, including TON, Peaq, and Sui.
+- 🎓 IBM SkillsBuild **Blockchain Essentials** certified.
+
+I value projects that are **useful, testable, documented, and reproducible**. I share what I learn as I build.
+
+## 🧰 Tools & Technologies
+
+*These represent tools I use or am actively learning—not a claim of expert-level proficiency in every technology.*
+
+<div align="center">
+
+![Tools and technologies](https://skillicons.dev/icons?i=linux,bash,git,github,docker,terraform,aws,githubactions,kubernetes,python,flask,javascript,nodejs,postgres&perline=7)
+
+</div>
+
+**Current learning areas:** Linux and shell scripting · Docker · AWS fundamentals · Terraform · CI/CD · Python backend development · TON/Tact
+
+## 🚀 Featured Projects
+
+
+
+| Project | What it does | Stack / focus | Status |
+|---|---|---|---|
+| [**TonGPT**](https://github.com/preciousadegoke/TonGPT) | An AI-powered Telegram assistant concept for exploring TON ecosystem data and research signals. | Python, Telegram APIs, PostgreSQL, TON/Tact | In progress |
+| [**DevOps Linux Lab**](https://github.com/preciousadegoke/ICP-2DE52D2E-2026-REPO) | A hands-on lab for Linux administration and small automation scripts. | Linux, Bash, Git | Learning lab |
+
+> **Showcase tip:** Keep three to five projects here. Link directly to each repository, add a clear README, include setup instructions, and state honestly what works today versus what is planned.
+
+## ✍️ Writing & Research
+
+I write about blockchain ecosystems and Web3 infrastructure, with a particular interest in **TON** and emerging networks.
+
+- 📰 **Substack:** [Long-form research and explainers](https://cryptoquantumadegoke.substack.com/)
+- 📝 **Medium:** [Articles and technical notes](https://medium.com/@adegokeprecious73)
+- 🐦 **X:** [Threads, observations, and project updates](https://x.com/AdegokePrecio16)
+
+
+
+## 🎯 Current Focus
+
+- 🔭 **Building:** Small, practical projects in backend development and DevOps; developing the TonGPT concept.
+- 🌱 **Learning:** Kubernetes, Terraform, AWS workflows, CI/CD, and TON smart contracts.
+- 🤝 **Interested in:** Internships, open-source contributions, technical writing, and collaborative software projects.
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=preciousadegoke&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics for preciousadegoke" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preciousadegoke&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages for preciousadegoke" />
+
+</div>
+
+<sub>Stats are generated by third-party services and may occasionally be unavailable. The language card reflects detected repository code, not overall skill level.</sub>
+
+## 📫 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/preciousadegoke)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AdegokePrecio16)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://cryptoquantumadegoke.substack.com/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@adegokeprecious73)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-adegoke-19146723a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adegokerecious73@gmail.com)
+
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=110&section=footer)
+
+</div>
